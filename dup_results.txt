@@ -1,0 +1,11 @@
+﻿[dotenv@17.2.3] injecting env (26) from .env -- tip: ≡ƒöÉ encrypt with Dotenvx: https://dotenvx.com
+
+--- Match: M404dn (1 versions) ---
+[6998b6e60d51a5d80a0c025e] T: HP LaserJet Pro M404dn Monochrome | P: 299.99 | Desc: Premium Laser printer for lase... | Images: 1
+
+--- Match: 9015e (1 versions) ---
+[6998b6e50d51a5d80a0c023e] T: HP OfficeJet Pro 9015e All-in-One | P: 219.99 | Desc: Premium Inkjet printer for off... | Images: 1
+
+--- Match: 7301 (2 versions) ---
+[69864f0ba4b9a466cb72cb01] T: HP Smart Tank 7301 All-in-One Printer, AI-enabled | P: 449.99 | Desc: ... | Images: 9
+[6998b6e60d51a5d80a0c025a] T: HP Smart Tank 7301 All-in-One | P: 299.99 | Desc: Premium Inkjet printer for ink... | Images: 1

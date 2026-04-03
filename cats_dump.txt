@@ -1,0 +1,9 @@
+All In One|all-in-one|6982389caafc80955cc50c31
+Large Format|large-format|698238acaafc80955cc50c36
+Inkjet|inkjet|698238b9aafc80955cc50c3b
+LED Printers|led-printers|698238d6aafc80955cc50c45
+Ink & Toner|ink-toner|698238e1aafc80955cc50c4a
+Home Printers|home-printers|6998b5f2f97bc17a7f5b64d0
+Office Printers|office-printers|6998b5f2f97bc17a7f5b64d6
+Inkjet Printers|inkjet-printers|6998b5f2f97bc17a7f5b64dc
+Laser Printers|laser-printers|6998b5f2f97bc17a7f5b64e2

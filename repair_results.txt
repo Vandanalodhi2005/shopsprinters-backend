@@ -1,0 +1,2 @@
+﻿[dotenv@17.2.3] injecting env (26) from .env -- tip: ΓÜÖ∩╕Å  suppress all logs with { quiet: true }
+Repaired 20 products with missing details or broken visuals.

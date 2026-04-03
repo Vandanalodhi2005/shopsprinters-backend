@@ -1,0 +1,19 @@
+﻿[dotenv@17.2.3] injecting env (26) from .env -- tip: ΓÜÖ∩╕Å  write to custom object with { processEnv: myObject }
+
+--- HP LaserJet Pro M404dn ---
+Title: HP LaserJet Pro M404dn Monochrome
+Overview: 1039 chars
+Specs: 541 chars
+Images: ["https://images.unsplash.com/photo-1589828952857-e8a4a580662d?auto=format&fit=crop&q=80&w=800"]
+
+--- HP OfficeJet Pro 9015e ---
+Title: HP OfficeJet Pro 9015e All-in-One
+Overview: 1039 chars
+Specs: 541 chars
+Images: ["https://images.unsplash.com/photo-1610473068565-89689408e063?auto=format&fit=crop&q=80&w=800"]
+
+--- HP Smart Tank 7301 ---
+Title: HP Smart Tank 7301 All-in-One Printer, AI-enabled
+Overview: 1690 chars
+Specs: 17112 chars
+Images: ["https://res.cloudinary.com/dzfw1vr7t/image/upload/v1770409738/products/1770409737652-i1.jpg.webp","https://res.cloudinary.com/dzfw1vr7t/image/upload/v1770409738/products/1770409737654-i2.jpg.avif","https://res.cloudinary.com/dzfw1vr7t/image/upload/v1770409738/products/1770409737655-i3.jpg.webp","https://res.cloudinary.com/dzfw1vr7t/image/upload/v1770409738/products/1770409737657-i4.jpg.webp","https://res.cloudinary.com/dzfw1vr7t/image/upload/v1770409738/products/1770409737658-i5.jpg.webp","https://res.cloudinary.com/dzfw1vr7t/image/upload/v1770409738/products/1770409737659-i6.jpg.webp","https://res.cloudinary.com/dzfw1vr7t/image/upload/v1770409738/products/1770409737660-i7.jpg.webp","https://res.cloudinary.com/dzfw1vr7t/image/upload/v1770409738/products/1770409737662-i8.jpg.webp","https://res.cloudinary.com/dzfw1vr7t/image/upload/v1770409738/products/1770409737662-i9.jpg.webp"]

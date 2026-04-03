@@ -1,0 +1,280 @@
+﻿[dotenv@17.2.3] injecting env (26) from .env -- tip: ΓÜÖ∩╕Å  enable debug logging with { debug: true }
+
+--- M404dn ---
+[6998b6e60d51a5d80a0c025e] Title: HP LaserJet Pro M404dn Monochrome | Price: 299.99
+Overview: 
+<div class="space-y-6">
+    <p class="text-lg leading-relaxed">Experience reliability and performance with this professional printing solution. Designed to integrate seamlessly into your workflow, it delivers high-quality results with every page.</p>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div>
+            <h3 class="text-xl font-bold mb-3">Key Features</h3>
+            <ul class="list-disc pl-5 space-y-2">
+                <li>Wireless printing for ultimate convenience</li>
+                <li>High-resolution output for crisp text and vibrant images</li>
+                <li>Efficient power management to reduce energy costs</li>
+                <li>Compact design that fits perfectly in any workspace</li>
+            </ul>
+        </div>
+        <div>
+            <h3 class="text-xl font-bold mb-3">Professional Output</h3>
+            <p>Built for durability and consistent quality, this model ensures that your documents and photos look their best, time after time.</p>
+        </div>
+    </div>
+</div>
+
+Specs: 
+<table class="w-full">
+    <tbody>
+        <tr><td>Brand</td><td>HP / Industry Standard</td></tr>
+        <tr><td>Connectivity</td><td>Wireless, USB, Cloud-Ready</td></tr>
+        <tr><td>Printing Technology</td><td>Inkjet / Laser optimized</td></tr>
+        <tr><td>Print Speed</td><td>Up to 15 ppm (B/W), 10 ppm (Color)</td></tr>
+        <tr><td>Max Resolution</td><td>4800 x 1200 dpi</td></tr>
+        <tr><td>Output Type</td><td>Color</td></tr>
+        <tr><td>Paper Capacity</td><td>100 Sheets standard</td></tr>
+    </tbody>
+</table>
+
+
+--- 9015e ---
+[6998b6e50d51a5d80a0c023e] Title: HP OfficeJet Pro 9015e All-in-One | Price: 219.99
+Overview: 
+<div class="space-y-6">
+    <p class="text-lg leading-relaxed">Experience reliability and performance with this professional printing solution. Designed to integrate seamlessly into your workflow, it delivers high-quality results with every page.</p>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div>
+            <h3 class="text-xl font-bold mb-3">Key Features</h3>
+            <ul class="list-disc pl-5 space-y-2">
+                <li>Wireless printing for ultimate convenience</li>
+                <li>High-resolution output for crisp text and vibrant images</li>
+                <li>Efficient power management to reduce energy costs</li>
+                <li>Compact design that fits perfectly in any workspace</li>
+            </ul>
+        </div>
+        <div>
+            <h3 class="text-xl font-bold mb-3">Professional Output</h3>
+            <p>Built for durability and consistent quality, this model ensures that your documents and photos look their best, time after time.</p>
+        </div>
+    </div>
+</div>
+
+Specs: 
+<table class="w-full">
+    <tbody>
+        <tr><td>Brand</td><td>HP / Industry Standard</td></tr>
+        <tr><td>Connectivity</td><td>Wireless, USB, Cloud-Ready</td></tr>
+        <tr><td>Printing Technology</td><td>Inkjet / Laser optimized</td></tr>
+        <tr><td>Print Speed</td><td>Up to 15 ppm (B/W), 10 ppm (Color)</td></tr>
+        <tr><td>Max Resolution</td><td>4800 x 1200 dpi</td></tr>
+        <tr><td>Output Type</td><td>Color</td></tr>
+        <tr><td>Paper Capacity</td><td>100 Sheets standard</td></tr>
+    </tbody>
+</table>
+
+
+--- 7301 ---
+[69864f0ba4b9a466cb72cb01] Title: HP Smart Tank 7301 All-in-One Printer, AI-enabled | Price: 449.99
+Overview: <p>Printing is seamless from start to finish with a high-capacity ink tank printer plus an automatic document feeder designed for the whole family. Get outstanding print quality at a low cost, with up to 3 years of Original HP ink included in the box.</p><p>Best for families who print a variety of color documents in high volumes.</p><p><br></p><p><strong>Seamless printing for learning and work from home</strong></p><p>Fast printing with up to 15 ppm black and 9 ppm color. Save time with a 35-page automatic document feeder. Self-healing Wi-Fi helps keep you connected by automatically detecting and resolving connectivity issues. Get security essentials to ensure privacy and control, including basic encryption and password protection. Smart-guided buttons illuminate to visually guide you through everyday print, scan, and copy tasks.</p><p><br></p><p><strong>Fully loaded with savings</strong></p><p>Get up to 8,000 color pages or 6,000 black pages of Original HP ink included in the box. Print high volumes at an ultra-low cost per page with this high-capacity ink tank system. Replenishing ink is clean and easy with HPΓÇÖs innovative spill-free refill system.</p><p><br></p><p><strong>Join HP in protecting our planet for the future</strong></p><p>Reduce plastic waste with Original HP ink bottle refills that deliver up to 8,000 color pages or up to 6,000 black pages. Features a sustainable design made from recycled printers and other electronics, with more than 25% recycled plastic by weight. Choose HP-branded sustainably sourced FSC┬« certified paper to help stop deforestation and protect wildlife. EPEAT Silver certified printer for an environmentally conscious choice.</p>
+Specs: <table class="w-full text-left border-collapse"><tbody><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Functions</td>
+                    <td class="py-3 text-slate-600 text-sm">Print, Scan, Copy, ADF, Duplex, Wireless</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Print Speed - Black (ISO, laser comparable)</td>
+                    <td class="py-3 text-slate-600 text-sm">Up to 15 ppm</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Print Speed - Color (ISO, laser comparable)</td>
+                    <td class="py-3 text-slate-600 text-sm">Up to 9 ppm</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Resolution (black)</td>
+                    <td class="py-3 text-slate-600 text-sm">Up to 1200 x 1200 rendered dpi</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Resolution (color)</td>
+                    <td class="py-3 text-slate-600 text-sm">Up to 4800 x 1200 optimized dpi color when printing from a computer and 1200 input dpi</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Monthly duty cycle</td>
+                    <td class="py-3 text-slate-600 text-sm">Up to 5,000 pages Duty cycle is the maximum number of pages that can be printed in a month, but this page volume is not recommended on an ongoing basis.</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Recommended monthly page volume</td>
+                    <td class="py-3 text-slate-600 text-sm"> 400 to 800 HP recommends the number of pages printed not exceed the recommended monthly page volume for optimum device performance.</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Print Technology</td>
+                    <td class="py-3 text-slate-600 text-sm">HP Thermal Inkjet</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Display</td>
+                    <td class="py-3 text-slate-600 text-sm">2-Line LCD with Smart guided Buttons 2.0 x 0.4 in (50.8 x 10.16 mm)</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Processor speed</td>
+                    <td class="py-3 text-slate-600 text-sm">800 MHz</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Replacement cartridges</td>
+                    <td class="py-3 text-slate-600 text-sm">HP 32XL 135-ml Black bottle (~6000 pages), HP 31 70-ml Cyan bottle (~8000 pages), HP 31 70-ml Magenta bottle (~8000 pages), HP 31 70-ml Yellow bottle (~8000 pages) For more information about fill and yield see www.hp.com/go/learnaboutsupplies</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Compatible ink types</td>
+                    <td class="py-3 text-slate-600 text-sm">Pigment-based (black) Dye-based (color)</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Print languages</td>
+                    <td class="py-3 text-slate-600 text-sm">HP PCL 3 GUI</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Automatic paper sensor</td>
+                    <td class="py-3 text-slate-600 text-sm">Yes</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Paper trays, standard</td>
+                    <td class="py-3 text-slate-600 text-sm">1</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Paper trays, maximum</td>
+                    <td class="py-3 text-slate-600 text-sm">1</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Mobile Printing Capability</td>
+                    <td class="py-3 text-slate-600 text-sm">Apple AirPrint MopriaΓäó certified HP Print Service Plugin (Android printing) HP app Wi-Fi┬« Direct Printing</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Connectivity, standard</td>
+                    <td class="py-3 text-slate-600 text-sm">1 Wi-Fi Direct 1 Hi-Speed USB 2.0 (device) 1 Ethernet</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Memory, standard</td>
+                    <td class="py-3 text-slate-600 text-sm">256 MB</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Minimum system requirements</td>
+                    <td class="py-3 text-slate-600 text-sm">macOS 10.14 Mojave macOS 10.15 Catalina macOS 11 Big Sur macOS 12 Monterey macOS 13 Ventura macOS 14 Sonoma macOS 15 Sequoia 2 GB HD Internet required Windows 10, 7: 32-bit or 64-bit, 2 GB available hard disk space, Internet connection, Internet Explorer.</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Compatible operating systems</td>
+                    <td class="py-3 text-slate-600 text-sm">Windows 11; Windows 10; Windows 8; Windows 8.1; Windows 7; macOS 10.14 Mojave; macOS 10.15 Catalina; macOS 11 Big Sur; macOS 12 Monterey; macOS 13 Ventura; macOS 14 Sonoma; macOS 15 Sequoia</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Windows 11; Windows 10; Windows 8; Windows 8.1; Windows 7; macOS 10.14 Mojave; macOS 10.15 Catalina; macOS 11 Big Sur; macOS 12 Monterey; macOS 13 Ventura; macOS 14 Sonoma; macOS 15 Sequoia</td>
+                    <td class="py-3 text-slate-600 text-sm">250-sheet input tray</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Paper handling output, standard</td>
+                    <td class="py-3 text-slate-600 text-sm">100-sheet output tray</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Duplex printing</td>
+                    <td class="py-3 text-slate-600 text-sm">Automatic</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Envelope input capacity</td>
+                    <td class="py-3 text-slate-600 text-sm">Up to 30 envelopes</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Borderless printing</td>
+                    <td class="py-3 text-slate-600 text-sm">Yes (up to 8.5 x 11 in, 210 x 297 mm)</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Media sizes supported</td>
+                    <td class="py-3 text-slate-600 text-sm">Letter; Legal; Government Legal; Executive; Statement; 4 x 6 in; 5 x 7 in; 8 x 10 in; L; Photo 2L; Envelope( #10, Monarch, 5.5 bar); Card (4 x 6 in, 5 x 8 in)</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Media sizes, custom</td>
+                    <td class="py-3 text-slate-600 text-sm">3.5 x 5 in to 8.5 x 14 in</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Media types</td>
+                    <td class="py-3 text-slate-600 text-sm">Plain Paper, HP Photo Papers, HP Matte Brochure or Professional Paper, HP Matte Presentation Paper, HP Glossy Brochure or Professional Paper, Other Photo Inkjet Papers, Other Matte Inkjet Papers, Other Glossy Inkjet Papers, Light/Recycled</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Recommended media weight</td>
+                    <td class="py-3 text-slate-600 text-sm">16 to 28 lb</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Supported media weight</td>
+                    <td class="py-3 text-slate-600 text-sm">Plain paper: 16 to 28 lb Envelopes: 20 to 24 lb Cards: up to 110 lb Photo paper: up to 66 lb</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Scanner type</td>
+                    <td class="py-3 text-slate-600 text-sm">Flatbed, ADF</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Scan file format</td>
+                    <td class="py-3 text-slate-600 text-sm">JPG PDF PNG TIFF</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Scan resolution, hardware</td>
+                    <td class="py-3 text-slate-600 text-sm">Up to 1200 x 1200 dpi</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Scan resolution, optical</td>
+                    <td class="py-3 text-slate-600 text-sm">Up to 1200 dpi</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Scan size (flatbed), maximum</td>
+                    <td class="py-3 text-slate-600 text-sm">8.5 x 11.69 in</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Scan size (ADF), maximum</td>
+                    <td class="py-3 text-slate-600 text-sm">8.5 x 14 in</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">ADF Capacity</td>
+                    <td class="py-3 text-slate-600 text-sm">Standard, 35 sheets</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Digital send file Formats</td>
+                    <td class="py-3 text-slate-600 text-sm">PDF BMP PNG TIF JPG</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Copy resolution (black text)</td>
+                    <td class="py-3 text-slate-600 text-sm">Up to 600 dpi</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Copy resolution (colour text and graphics)</td>
+                    <td class="py-3 text-slate-600 text-sm">Up to 600 x 600 dpi</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Copy reduce / enlarge settings</td>
+                    <td class="py-3 text-slate-600 text-sm">25 to 400%</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Copies, maximum</td>
+                    <td class="py-3 text-slate-600 text-sm">Up to 99 copies</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Power</td>
+                    <td class="py-3 text-slate-600 text-sm">Input voltage: 100 to 240 VAC (+/- 10%), 50/60 Hz (+/- 3 Hz)</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Power consumption</td>
+                    <td class="py-3 text-slate-600 text-sm">0.1 watts (off) 1.10 watts (sleep)</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Operating temperature range</td>
+                    <td class="py-3 text-slate-600 text-sm">41 to 104┬░F</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Operating humidity range</td>
+                    <td class="py-3 text-slate-600 text-sm">20 to 80% RH</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Software included</td>
+                    <td class="py-3 text-slate-600 text-sm">HP Printer Software, available online</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Warranty</td>
+                    <td class="py-3 text-slate-600 text-sm">One year limited hardware warranty from the date of purchase For more info please visit us at http://support.hp.com</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Dimensions (W X D X H)</td>
+                    <td class="py-3 text-slate-600 text-sm">16.83 x 14.33 x 9.46 in</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Dimensions Maximum (W X D X H)</td>
+                    <td class="py-3 text-slate-600 text-sm">17.86 x 17.35 x 9.83 in</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Weight</td>
+                    <td class="py-3 text-slate-600 text-sm">16.98 lb</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Package weight</td>
+                    <td class="py-3 text-slate-600 text-sm">23.54 Ib</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">What's in the box</td>
+                    <td class="py-3 text-slate-600 text-sm">HP Smart Tank 7301 All-in-One Printer HP 32XL Black Original Ink Bottle HP 31 Cyan Original Ink Bottle HP 31 Magenta Original Ink Bottle HP 31 Yellow Original Ink Bottle Ink caution flyer Setup guide Reference guide Regulatory flyer Power cord For more information about fill and yield, see http://www.hp.com/go/learnaboutsupplies</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Sustainability Impact</td>
+                    <td class="py-3 text-slate-600 text-sm">25% post-consumer recycled plastic Recyclable through HP Planet Partners</td>
+                </tr><tr class="border-b border-slate-100">
+                    <td class="py-3 pr-4 font-bold text-slate-900 uppercase text-xs w-1/3">Wireless capability</td>
+                    <td class="py-3 text-slate-600 text-sm">Yes, 2.4/5G dual band Wi-Fi, Wi-Fi Direct</td>
+                </tr></tbody></table>
+[6998b6e60d51a5d80a0c025a] Title: HP Smart Tank 7301 All-in-One | Price: 299.99
+Overview: 
+<div class="space-y-6">
+    <p class="text-lg leading-relaxed">Experience reliability and performance with this professional printing solution. Designed to integrate seamlessly into your workflow, it delivers high-quality results with every page.</p>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div>
+            <h3 class="text-xl font-bold mb-3">Key Features</h3>
+            <ul class="list-disc pl-5 space-y-2">
+                <li>Wireless printing for ultimate convenience</li>
+                <li>High-resolution output for crisp text and vibrant images</li>
+                <li>Efficient power management to reduce energy costs</li>
+                <li>Compact design that fits perfectly in any workspace</li>
+            </ul>
+        </div>
+        <div>
+            <h3 class="text-xl font-bold mb-3">Professional Output</h3>
+            <p>Built for durability and consistent quality, this model ensures that your documents and photos look their best, time after time.</p>
+        </div>
+    </div>
+</div>
+
+Specs: 
+<table class="w-full">
+    <tbody>
+        <tr><td>Brand</td><td>HP / Industry Standard</td></tr>
+        <tr><td>Connectivity</td><td>Wireless, USB, Cloud-Ready</td></tr>
+        <tr><td>Printing Technology</td><td>Inkjet / Laser optimized</td></tr>
+        <tr><td>Print Speed</td><td>Up to 15 ppm (B/W), 10 ppm (Color)</td></tr>
+        <tr><td>Max Resolution</td><td>4800 x 1200 dpi</td></tr>
+        <tr><td>Output Type</td><td>Color</td></tr>
+        <tr><td>Paper Capacity</td><td>100 Sheets standard</td></tr>
+    </tbody>
+</table>
+
