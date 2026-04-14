@@ -18,6 +18,7 @@ const server = http.createServer(app);
 const io = new Server(server, {
     cors: {
         origin: [
+            "https://printsmatrix1.netlify.app",
             "http://localhost:5173",
             "https://innovationdynamicsgroup.com/",
         ],
