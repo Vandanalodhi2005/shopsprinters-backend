@@ -31,7 +31,7 @@ const io = new Server(server, {
 
 app.use(cors({
     origin: [
-        "https://printsmatrix1.netlify.app",
+        "https://printsmatrix.com",
         "http://localhost:5173",
         "http://localhost:5174",
         "https://innovationdynamicsgroup.com"
