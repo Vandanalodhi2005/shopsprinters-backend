@@ -20,6 +20,10 @@ const siteSettingsSchema = new mongoose.Schema(
             type: Boolean,
             default: true,
         },
+        allowInstallationFailed: {
+            type: Boolean,
+            default: true,
+        },
     },
     { timestamps: true }
 );
