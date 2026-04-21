@@ -108,7 +108,7 @@ const sendEmail = async ({ to, subject, html, text, from, replyTo }) => {
         }
 
         const mailOptions = {
-            from: from || `"${process.env.COMPANY_NAME || 'Prints Matrix'}" <${process.env.EMAIL_FROM}>`,
+            from: from || `"${process.env.COMPANY_NAME || 'Shopes Printers'}" <${process.env.EMAIL_FROM}>`,
             sender: process.env.EMAIL_FROM,
             to: to,
             subject: subject,
@@ -141,18 +141,18 @@ const generateOTP = () => {
 // Send OTP email
 const sendOTPEmail = async (email, otp, type = 'registration') => {
     try {
-        const subject = type === 'registration' ? 'Verify Your Account - Prints Matrix' : 'Reset Your Password - Prints Matrix';
+        const subject = type === 'registration' ? `Verify Your Account - ${process.env.COMPANY_NAME || 'Shopes Printers'}` : `Reset Your Password - ${process.env.COMPANY_NAME || 'Shopes Printers'}`;
         const html = `
             <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px;">
                 <div style="background: linear-gradient(135deg, #1e40af 0%, #0d9488 100%); padding: 40px 20px; text-align: center; border-radius: 10px 10px 0 0;">
-                    <h1 style="color: white; margin: 0; font-size: 28px;">Prints Matrix</h1>
+                    <h1 style="color: white; margin: 0; font-size: 28px;">${process.env.COMPANY_NAME || 'Shopes Printers'}</h1>
                     <p style="color: white; margin: 10px 0 0 0; opacity: 0.9;">${type === 'registration' ? 'Account Verification' : 'Password Reset'}</p>
                 </div>
                 <div style="background: white; padding: 40px 30px; border-radius: 0 0 10px 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
                     <h2 style="color: #333; margin-top: 0;">${type === 'registration' ? 'Verify Your Account' : 'Reset Your Password'}</h2>
                     <p style="color: #666; font-size: 16px; line-height: 1.6;">Hello!</p>
                     <p style="color: #666; font-size: 16px; line-height: 1.6;">
-                        ${type === 'registration' ? 'Thank you for registering with Prints Matrix. Your OTP code is:' : 'We received a request to reset your password. Your OTP code is:'}
+                        ${type === 'registration' ? `Thank you for registering with ${process.env.COMPANY_NAME || 'Shopes Printers'}. Your OTP code is:` : 'We received a request to reset your password. Your OTP code is:'}
                     </p>
                     <div style="background-color: #f8f9fa; border: 2px dashed #1e40af; padding: 20px; text-align: center; margin: 20px 0; border-radius: 8px;">
                         <span style="font-size: 32px; font-weight: bold; color: #1e40af; letter-spacing: 8px; font-family: 'Courier New', monospace;">${otp}</span>
@@ -167,7 +167,7 @@ const sendOTPEmail = async (email, otp, type = 'registration') => {
                     </div>
                     <div style="text-align: center; margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee;">
                         <p style="color: #999; font-size: 12px; margin: 0;">
-                            This is an automated message from Prints Matrix. Please do not reply to this email.
+                            This is an automated message from ${process.env.COMPANY_NAME || 'Shopes Printers'}. Please do not reply to this email.
                         </p>
                     </div>
                 </div>

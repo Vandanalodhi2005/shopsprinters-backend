@@ -11,6 +11,7 @@ dotenv.config();
 connectDB();
 
 const app = express();
+// Trigger dev server reload to ensure routes are mapped correctly
 
 
 // Middleware
@@ -18,8 +19,8 @@ const server = http.createServer(app);
 const io = new Server(server, {
     cors: {
         origin: [
-            "https://printsmatrixhai.netlify.app",
-            "https://printsmatrix.netlify.app",            "https://printsmatrix1.netlify.app",
+            "https://shopesprinters.netlify.app",
+            "https://shopesprinters.com",
             "http://localhost:5173",
             "http://localhost:5174",
             "https://innovationdynamicsgroup.com",
@@ -32,10 +33,8 @@ const io = new Server(server, {
 
 app.use(cors({
     origin: [
-        "https://printsmatrixhai.netlify.app",
-        "https://printsmatrix.netlify.app",            
-        "https://printsmatrix1.netlify.app",
-        "https://printsmatrix.com",
+        "https://shopesprinters.netlify.app",
+        "https://shopesprinters.com",
         "http://localhost:5173",
         "http://localhost:5174",
         "https://innovationdynamicsgroup.com"

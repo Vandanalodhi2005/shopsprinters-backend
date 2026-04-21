@@ -29,7 +29,7 @@ const getShippingRates = asyncHandler(async (req, res) => {
 
     // Default Company Address (Modify as needed)
     const fromAddress = await client.Address.create({
-        company: process.env.COMPANY_NAME || 'PrintsCarts',
+        company: process.env.COMPANY_NAME || 'Shopes Printers',
         street1: process.env.COMPANY_ADDRESS || '123 Business Rd', 
         city: process.env.COMPANY_CITY || 'New York',
         state: process.env.COMPANY_STATE || 'NY',

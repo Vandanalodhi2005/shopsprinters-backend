@@ -19,7 +19,7 @@ router.route('/home').get(asyncHandler(async (req, res) => {
     
     // Fetch all categories once to avoid repeated findOne calls
     const categories = await Category.find({ 
-        name: { $in: ['Laser', 'Inkjet', 'Ink & Toner'] } 
+        name: { $in: [/Laser/i, /Inkjet/i, /Ink & Toner/i] } 
     }).lean();
     
     const findCatId = (name) => {

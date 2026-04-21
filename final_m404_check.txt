@@ -1,2 +1,0 @@
-﻿[dotenv@17.2.3] injecting env (26) from .env -- tip: ΓÜÖ∩╕Å  enable debug logging with { debug: true }
-T: HP LaserJet Pro M404dn Monochrome P: 299.99 ID: new ObjectId('6998b6e60d51a5d80a0c025e')

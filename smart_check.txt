@@ -1,3 +1,0 @@
-﻿[dotenv@17.2.3] injecting env (26) from .env -- tip: ≡ƒ¢á∩╕Å  run anywhere with `dotenvx run -- yourcommand`
-T: HP Smart Tank 7301 All-in-One Printer, AI-enabled P: 449.99 ID: new ObjectId('69864f0ba4b9a466cb72cb01')
-T: HP Smart Tank 7301 All-in-One P: 299.99 ID: new ObjectId('6998b6e60d51a5d80a0c025a')
