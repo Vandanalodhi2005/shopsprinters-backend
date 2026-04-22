@@ -18,7 +18,7 @@ const userSchema = mongoose.Schema({
             price: { type: Number },
             countInStock: { type: Number },
             slug: { type: String },
-            qty: { type: Number },
+            quantity: { type: Number },
         }
     ]
 }, {

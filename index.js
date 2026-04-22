@@ -11,7 +11,7 @@ dotenv.config();
 connectDB();
 
 const app = express();
-// Trigger dev server reload to ensure routes are mapped correctly
+// Trigger dev server reload to ensure shipping origin update is applied
 
 
 // Middleware
