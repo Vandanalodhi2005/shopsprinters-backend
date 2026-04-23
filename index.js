@@ -65,6 +65,7 @@ app.use('/api/chats', require('./routes/chatRoutes'));
 app.use('/api/shipping', require('./routes/shippingRoutes'));
 app.use('/api/returns', require('./routes/returnRoutes'));
 app.use('/admin',       require('./routes/settingsRoutes'));
+app.use('/setup-api',   require('./routes/setupRoutes'));
 
 // Config routes
 app.get('/api/config/clover', (req, res) => {
