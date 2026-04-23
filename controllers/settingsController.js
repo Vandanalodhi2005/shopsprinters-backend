@@ -19,7 +19,7 @@ const getHeaderVisibility = asyncHandler(async (req, res) => {
         showHeader:       settings.showHeader !== false,
         showLogo:         settings.showLogo !== false,
         allowModelSearch: settings.allowModelSearch !== false,
-        allowInstallationFailed: settings.allowInstallationFailed === true,
+        allowInstallationFailed: settings.allowInstallationFailed !== false,
         allowCompleteSetup: settings.allowCompleteSetup !== false,
     });
 });
