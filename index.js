@@ -11,20 +11,27 @@ dotenv.config();
 connectDB();
 
 const app = express();
-// Trigger dev server reload to ensure shipping origin update is applied
 
+const allowedOrigins = [
+    "https://shopesprinters.netlify.app",
+    "https://shopesprinters.com",
+    "http://localhost:5173",
+    "http://localhost:5174",
+    "https://innovationdynamicsgroup.com"
+];
 
 // Middleware
 const server = http.createServer(app);
 const io = new Server(server, {
     cors: {
-        origin: [
-            "https://shopesprinters.netlify.app",
-            "https://shopesprinters.com",
-            "http://localhost:5173",
-            "http://localhost:5174",
-            "https://innovationdynamicsgroup.com",
-        ],
+        origin: function (origin, callback) {
+            if (!origin) return callback(null, true);
+            if (allowedOrigins.includes(origin) || origin.endsWith('.netlify.app')) {
+                callback(null, true);
+            } else {
+                callback(new Error('Not allowed by CORS'));
+            }
+        },
         methods: ["GET", "POST"],
         credentials: true
     }
@@ -32,13 +39,15 @@ const io = new Server(server, {
 
 
 app.use(cors({
-    origin: [
-        "https://shopesprinters.netlify.app",
-        "https://shopesprinters.com",
-        "http://localhost:5173",
-        "http://localhost:5174",
-        "https://innovationdynamicsgroup.com"
-    ],
+    origin: function (origin, callback) {
+        // allow requests with no origin (like mobile apps or curl requests)
+        if (!origin) return callback(null, true);
+        if (allowedOrigins.includes(origin) || origin.endsWith('.netlify.app')) {
+            callback(null, true);
+        } else {
+            callback(new Error('Not allowed by CORS'));
+        }
+    },
     credentials: true
 }));
 app.use(express.json());
